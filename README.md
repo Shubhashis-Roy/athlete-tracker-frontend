@@ -1,5 +1,5 @@
-<h3> <a href= "https://delightful-crisp-2c676b.netlify.app/login" >Live Demo</a> </h3>
-<h4> <a href= "https://github.com/Shubhashis-Roy/athlete-tracker-backend" >Front-end Repo Link</a> </h4>
+<h3> <a href= "https://delightful-crisp-2c676b.netlify.app" >Live Demo</a> </h3>
+<h4> <a href= "https://github.com/Shubhashis-Roy/athlete-tracker-backend" >Backend-end Repo Link</a> </h4>
 
 ### Creadentias:
 
